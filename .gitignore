@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.example
+# Uploaded PDFs and generated vector database
+backend/uploads/
+backend/chroma_db/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
